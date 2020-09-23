@@ -1,0 +1,8 @@
+compiler Insturictions.
+
+Ok to get this project working first open and compile the project in \dmsfx\dmsfx.vbp
+Once compiled rename the file from dmsfx.exe to dmsfx.dat as you need this file.
+
+O make sure that the file stays in this folder unless you need to edit the code in DMEbook.vbp project.
+
+Ok your done open up DMEbook.vbp and run O have fun hope you like the code. Please vote.

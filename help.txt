@@ -1,0 +1,7 @@
+help1=Here you can enter the title of your ebook that will be shown in the ebook caption and about box.
+help2=This is were you will enter your name to be shown in the ebooks about box. It also lets the person know who it belongs to.
+help3=Press the button to select the folder were your html files are. Please note this BETA program does not include subfolders.
+help4=Use the text box to include the name of your index page. This will then become your main home page in the ebook.
+help5=Please check the items in the listbox you want to include in your ebook.
+help6=Please use the button to select your output folder for your ebook.
+help7=Use the text box to include the excutable name of your ebook.
